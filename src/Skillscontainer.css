@@ -1,0 +1,75 @@
+.skill_containerimage img{
+    width: 400px;
+    object-fit: cover;
+    border-radius: 3px;
+    display: block;
+    /* box-shadow: 2px 3px 2px 2px yellow; */
+}
+.skill_container{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.skill_containertext{
+    flex: 0.6;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    margin-left: 50px;
+    max-width: 400px;
+}
+.skill_containertext h2{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 24px;
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.skill_containertext h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+.skillslider1{
+    margin-bottom: 6px;
+}
+.skillslider1 .MuiLinearProgress-barColorPrimary {
+    background: rgba(88, 88, 88, 0.541);
+}
+.skillslider1 > div > .MuiLinearProgress-barColorPrimary{
+    background-color: rgba(255, 255, 0, 0.842);
+}
+@media screen and (min-width: 380px) and (max-width: 780px){
+    .skill_containerimage img{
+        width: 280px;
+        border-radius: 3px;
+        object-fit: cover;
+        display: block;
+    }
+    .skill_container{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100px;
+    }
+    .skill_containertext{
+        width: 280px;
+        text-align: left;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: aliceblue;
+        margin-left: 18px;
+        max-width: 400px;
+    }
+    .skill_containertext h2{
+        margin-top: 20px;
+        margin-bottom: 30px;
+        text-align: center;
+        font-size: 24px;
+        color: yellow;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
