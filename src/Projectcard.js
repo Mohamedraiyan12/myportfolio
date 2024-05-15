@@ -4,7 +4,7 @@ export const Projectcard = ({ tittle, imgurl })=> {
     return(
         <div className='projectcard'>
         <div className="project">
-            <img src = {imgurl} />
+            <img src = {imgurl} alt='images'/>
             <h4>{tittle}</h4>
         </div>
     </div>
