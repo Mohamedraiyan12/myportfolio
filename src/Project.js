@@ -1,12 +1,12 @@
 import React from 'react'
 import Projectcard from './Projectcard';
 import './Project.css'
-import img1 from '../../myportfolio/src/projectimages/calculator images.png';
-import img2 from '../../myportfolio/src/projectimages/landingpage(shopping).png';
-import img3 from '../../myportfolio/src/projectimages/construction.png';
-import img4 from '../../myportfolio/src/projectimages/medical.png';
-import img5 from '../../myportfolio/src/projectimages/notepad.png';
-import img6 from '../../myportfolio/src/projectimages/todolistimg.png';
+import img1 from './projectimages/calculator images.png';
+import img2 from './projectimages/landingpageshoping.png';
+import img3 from './projectimages/construction.png';
+import img4 from './projectimages/medical.png';
+import img5 from './projectimages/notepad.png';
+import img6 from './projectimages/todolistimg.png';
 const Project = () => {
     const projects  = [
         {
