@@ -5,6 +5,7 @@ import About from './About';
 import Skillscontainer from './Skillscontainer';
 import Contact from './Contact';
 import Footer from './Footer';
+import Project from './Project';
 function App() {
   return (
     <div>
@@ -12,6 +13,7 @@ function App() {
       <Topcontent />
       <About />
       <Skillscontainer />
+      <Project />
       <Contact />
       <Footer />
     </div>
