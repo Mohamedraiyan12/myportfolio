@@ -1,5 +1,4 @@
-
-import React from 'react'
+import React from 'react';
 import { Link } from 'react-scroll';
 import './Footer.css';
 const Footer = () => {
@@ -33,5 +32,5 @@ const Footer = () => {
     </div>
   )
 }
-
 export default Footer;
+
