@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7da19467.css",
-    "main.js": "/static/js/main.2580821d.js",
+    "main.css": "/static/css/main.8a95c285.css",
+    "main.js": "/static/js/main.0f4938c3.js",
     "static/js/453.83234151.chunk.js": "/static/js/453.83234151.chunk.js",
     "static/media/front-end-developer.png": "/static/media/front-end-developer.14ce7f547cdc5562ac70.png",
     "static/media/construction.png": "/static/media/construction.966c949e7acf56b0a5f7.png",
     "static/media/landingpage(shopping).png": "/static/media/landingpage(shopping).99eb0f95351da4e9d9cb.png",
     "static/media/medical.png": "/static/media/medical.5337ef50cad76c935342.png",
     "static/media/aboutimage.png": "/static/media/aboutimage.998cef3e5e4805dd7ab0.png",
-    "static/media/skillsetimage.jpg": "/static/media/skillsetimage.33787ffd1395b29c1537.jpg",
     "static/media/calculator images.png": "/static/media/calculator images.9dcf78993bb46cc396e1.png",
     "static/media/notepad.png": "/static/media/notepad.8f0a299b203a0c852726.png",
     "static/media/todolistimg.png": "/static/media/todolistimg.eb39ec99565196af3eea.png",
     "index.html": "/index.html",
-    "main.7da19467.css.map": "/static/css/main.7da19467.css.map",
-    "main.2580821d.js.map": "/static/js/main.2580821d.js.map",
+    "main.8a95c285.css.map": "/static/css/main.8a95c285.css.map",
+    "main.0f4938c3.js.map": "/static/js/main.0f4938c3.js.map",
     "453.83234151.chunk.js.map": "/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7da19467.css",
-    "static/js/main.2580821d.js"
+    "static/css/main.8a95c285.css",
+    "static/js/main.0f4938c3.js"
   ]
 }

@@ -2,7 +2,7 @@ import './App.css';
 import Header from './Header'
 import Topcontent from './Topcontent';
 import About from './About';
-import Skillscontainer from './Skillscontainer';
+// import Skillscontainer from './Skillscontainer';
 import Contact from './Contact';
 import Footer from './Footer';
 import Project from './Project';
@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Topcontent />
       <About />
-      <Skillscontainer />
+      {/* <Skillscontainer /> */}
       <Project />
       <Contact />
       <Footer />
