@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css';
-import aboutimg from '../../myportfolio/src/images/aboutimage.png';
+import aboutimg from '../src/images/aboutimage.png';
 import { Element } from 'react-scroll';
 const About = () => {
   return (
