@@ -13,7 +13,7 @@ const Footer = () => {
         <h3>Home</h3>
         </Link>
         <Link to = "about" smooth={true} duration={500}>
-        <h3>About me</h3>
+        <h3>About</h3>
         </Link>
         <Link to = "skill" smooth={true} duration={500}>
         <h3>Skills</h3>

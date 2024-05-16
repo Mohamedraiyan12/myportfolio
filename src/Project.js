@@ -13,29 +13,35 @@ const Project = () => {
             tittle:"Calculator",
             desc:"lorem",
             imgurl: img1,
+            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
       },
         {
             tittle:"E-commerce",
             desc:"lorem",
             imgurl: img2,
+            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
         },
         {
             tittle:"construction-site",
             imgurl: img3,
+            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
         },
         {
             tittle:"Medical",
-            imgurl: img4
+            imgurl: img4,
+            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
         },
         {
-            tittle:"web design",
+            tittle:"Notepad",
             desc: "lorem",
             imgurl: img5,
+            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
         },
         {
             tittle:"To-do List",
             desc:"lorem",
             imgurl: img6,
+            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
         },
     ]
     return (
