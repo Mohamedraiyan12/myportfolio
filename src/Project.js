@@ -13,35 +13,35 @@ const Project = () => {
             tittle:"Calculator",
             desc:"lorem",
             imgurl: img1,
-            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
+            view:"https://mohamedraiyan12.github.io/calculator/",
       },
         {
             tittle:"E-commerce",
             desc:"lorem",
             imgurl: img2,
-            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
+            view:"https://mohamedraiyan12.github.io/e-commerce-ui-/",
         },
         {
             tittle:"construction-site",
             imgurl: img3,
-            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
+            view:"https://mohamedraiyan12.github.io/Construction-site/",
         },
         {
             tittle:"Medical",
             imgurl: img4,
-            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
+            view:"https://mohamedraiyan12.github.io/medical/",
         },
         {
             tittle:"Notepad",
             desc: "lorem",
             imgurl: img5,
-            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
+            view:"https://mohamedraiyan12.github.io/notes-simple-/",
         },
         {
             tittle:"To-do List",
             desc:"lorem",
             imgurl: img6,
-            view:"https://mohamedraiyan12.github.io/twitter-login-page/",
+            view:"https://mohamedraiyan12.github.io/To-do-list/",
         },
     ]
     return (
