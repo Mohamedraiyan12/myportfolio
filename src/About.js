@@ -8,8 +8,8 @@ const About = () => {
         <div className='aboutouter'>
             <div className='about-content'>
                 <h2>ABOUT ME</h2>
-                <p>Lorem, ipsum dolor sit amet consectetujj adipisicing elit. Numquam suscipit provident saepe quo officiis itaque harum voluptatibus in, expedita illo, voluptatum alias, possimus similique voluptas veniam ullam laudantium molestiae quibusdam.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis iure minus placeat magni voluptates ipsa assumenda eaque eligendi, voluptatem architecto culpa consequuntur omnis veniam nostrum possimus esse magnam molestiae officia?</p>
+                <p> I Am Mohamed Raiyan. i did my graduate in B.E computer Science and Engineering from AALIM MUHAMMAD SALEGH COLLEGE OF ENGINEERING. I pursing a MERN stack Developer at Innovate Technology.I have done many project using Javascript, CSS,HTML and React js.</p>
+                <p></p>
                 <button>Read More</button>
             </div>
             <div className='about-img'>
