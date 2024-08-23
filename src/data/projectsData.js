@@ -11,7 +11,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Medical Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
+        projectDesc: 'Developed a interactive web application using HTML,CSS, Bootstrap, Javascript and React.It take a Appoinment via online.Patients can book appointment on their free dates.',
         tags: ['React', 'CSS', 'Material Ui'],
         code: 'https://mohamedraiyan12.github.io/medical/',
         demo: 'https://mohamedraiyan12.github.io/medical/',
@@ -20,7 +20,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'E-Commerce',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        projectDesc: '',
         tags: ['Javascript', 'CSS', 'HTML','React'],
         code: 'https://mohamedraiyan12.github.io/e-commerce-ui-/',
         demo: 'https://mohamedraiyan12.github.io/e-commerce-ui-/',
@@ -39,7 +39,7 @@ export const projectsData = [
     {
         id: 4,
         projectName: 'Notepad',
-        projectDesc: 'A Simple notepad',
+        projectDesc: 'A Simplen notepad',
         tags: ['React Native', 'Firebase'],
         code: 'https://mohamedraiyan12.github.io/notes-simple-/',
         demo: 'https://mohamedraiyan12.github.io/notes-simple-/',
