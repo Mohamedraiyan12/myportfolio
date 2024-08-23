@@ -27,7 +27,7 @@ const Project = () => {
             view:"https://mohamedraiyan12.github.io/Construction-site/",
         },
         {
-            tittle:"Medical",
+            tittle:"Medicals",
             imgurl: img4,
             view:"https://mohamedraiyan12.github.io/medical/",
         },
@@ -35,7 +35,7 @@ const Project = () => {
             tittle:"Notepad",
             desc: "lorem",
             imgurl: img5,
-            view:"https://mohamedraiyan12.github.io/notes-simple-/",
+            view:"https://mohamedraiyan12.github.io/To-do-list/",
         },
         {
             tittle:"To-do List",
